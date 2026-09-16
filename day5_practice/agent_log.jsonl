@@ -1,0 +1,8 @@
+{"event": "before_model", "message_type": "HumanMessage", "preview": "김하늘 소속 팀 알려줘", "time": "2026-09-11T10:36:18.414845"}
+{"event": "after_model", "message_type": "AIMessage", "tool_calls": ["search_employee"], "total_tokens": 740, "time": "2026-09-11T10:36:20.835784"}
+{"event": "before_model", "message_type": "ToolMessage", "preview": "김하늘 / 클라우드운영팀 / haneul.kim@samsungsds.example.com", "time": "2026-09-11T10:36:20.840363"}
+{"event": "after_model", "message_type": "AIMessage", "total_tokens": 817, "time": "2026-09-11T10:36:22.837731"}
+{"event": "before_model", "message_type": "HumanMessage", "preview": "한국의 수도는 어디야?", "time": "2026-09-11T10:41:13.935119"}
+{"event": "after_model", "message_type": "AIMessage", "total_tokens": 768, "time": "2026-09-11T10:41:17.213138"}
+{"event": "before_model", "message_type": "HumanMessage", "preview": "서울과 부산간의 거리는?", "time": "2026-09-11T10:41:43.673821"}
+{"event": "after_model", "message_type": "AIMessage", "total_tokens": 965, "time": "2026-09-11T10:41:49.724150"}
