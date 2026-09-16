@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "api_server": "./api_server.py:build_app"
+  },
+  "env": "../.env"
+}

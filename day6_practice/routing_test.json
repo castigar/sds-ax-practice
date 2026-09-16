@@ -1,0 +1,8 @@
+[
+  {"question": "물류플랫폼팀 임직원이 몇 명이야?", "expected": ["data_agent"], "type": "single"},
+  {"question": "클라우드운영팀 노트북 자산 목록 보여줘", "expected": ["data_agent"], "type": "single"},
+  {"question": "입사 1년 미만이면 연차가 어떻게 돼?", "expected": ["research_agent"], "type": "single"},
+  {"question": "재택근무 신청은 언제까지 승인받아야 해?", "expected": ["research_agent"], "type": "single"},
+  {"question": "안녕! 너는 뭘 도와줄 수 있어?", "expected": ["general_agent"], "type": "single"},
+  {"question": "물류플랫폼팀 인원을 조회하고, 출장 규정상 예상 식비 총액도 알려줘", "expected": ["data_agent", "research_agent"], "type": "multi"}
+]
